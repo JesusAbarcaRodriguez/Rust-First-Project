@@ -1,0 +1,1 @@
+D:\User\Documents\UNA\6\ SEMESTRE\Arquitectura\Rust-First-Project\rust-project\target\debug\rust-project.exe: D:\User\Documents\UNA\6\ SEMESTRE\Arquitectura\Rust-First-Project\rust-project\src\main.rs
