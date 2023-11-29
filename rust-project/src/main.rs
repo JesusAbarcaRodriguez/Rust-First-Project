@@ -91,5 +91,8 @@ fn main() {
             miles = miles + 700;
         }
     }
+
+    // Declare array, initialize all values to 0, length = 5
+    let bytes = [0; 5];
 }
 
